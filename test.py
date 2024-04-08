@@ -9,3 +9,6 @@ if brandon == confused:
 
 if code == good: 
     continue
+
+if molkor == mad:
+    RecursionError
