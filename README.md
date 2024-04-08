@@ -30,8 +30,6 @@ Describe how to use the project or how to run scripts/files within VS Code, incl
 
 ## Contributing
 
-Thank you for considering contributing to our project! Here are the steps to make your contributions using Visual Studio Code (VS Code) directly:
-
 1. **Fork the Repository**
    - Visit the GitHub page of the project and click "Fork" at the top right to create a fork under your GitHub account.
 
@@ -68,8 +66,6 @@ Thank you for considering contributing to our project! Here are the steps to mak
 
 8. **Open a Pull Request**
    - Go to your fork on GitHub, find your new branch, and click "Pull Request" to initiate one against the original repository's `dev` branch. Fill in the details about your changes and submit.
-
-We appreciate your contributions and look forward to seeing your ideas and improvements!
 
 ## Team
 - Brandon
