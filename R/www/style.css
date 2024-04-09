@@ -1,1 +1,9 @@
-#placeholder
+/* Example CSS for the map and dynamic content */
+#jobMap {
+    border: 2px solid #007bff;
+    border-radius: 8px;
+  }
+  .dynamic-content {
+    color: #333;
+    padding: 20px;
+  }
