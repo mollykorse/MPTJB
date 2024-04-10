@@ -8,7 +8,7 @@ This project aims to [Briefly describe the goal and function of your project, in
 To contribute to or use this project, you'll need Visual Studio Code installed on your machine. Follow these instructions to clone the project, set up your environment, and start contributing.
 
 ### Prerequisites
-- Install [Visual Studio Code](https://code.visualstudio.com/)
+- Install [Visual Studio Code](https://code.visualstudio.com/) and/or [RStudio Desktop](https://posit.co/download/rstudio-desktop/)
 - Git installed on your machine
 - [Any other prerequisites like Node.js, Python, etc., depending on your project]
 
