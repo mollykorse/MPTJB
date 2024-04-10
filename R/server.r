@@ -6,7 +6,7 @@ library(jsonlite)
 server <- function(input, output) {
   
   # Load and preprocess job data from the JSON file
-  jobData <- fromJSON("/path/to/your/subset_data.json")
+  jobData <- fromJSON("file location")
   
   # Render the map with job data
   output$jobMap <- renderLeaflet({
