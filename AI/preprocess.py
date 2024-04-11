@@ -32,13 +32,13 @@ X = df.drop('is_tech', axis=1)  # Drop the target variable to isolate features
 y = target_variable  # Target variable
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
 
-# Normalize or Standardize the Data
-# It's common to normalize/standardize numerical features but not the one-hot encoded or tf-idf features
-# Assuming there are numerical features that need scaling, identified as "numerical_column1", "numerical_column2"
-scaler = StandardScaler()
-numerical_features = ['numerical_column1', 'numerical_column2']  # Replace with your actual numerical columns
-X_train[numerical_features] = scaler.fit_transform(X_train[numerical_features])
-X_test[numerical_features] = scaler.transform(X_test[numerical_features])
+## Normalize or Standardize the Data
+## It's common to normalize/standardize numerical features but not the one-hot encoded or tf-idf features
+## Assuming there are numerical features that need scaling, identified as "numerical_column1", "numerical_column2"
+#scaler = StandardScaler()
+#numerical_features = ['numerical_column1', 'numerical_column2']  # Replace with your actual numerical columns
+#X_train[numerical_features] = scaler.fit_transform(X_train[numerical_features])
+#X_test[numerical_features] = scaler.transform(X_test[numerical_features])
 
 # Note: This code snippet assumes `df` has columns like 'description', 'job_type', 'industry', and 'is_tech'.
 # It also assumes numerical columns need scaling. Adjust these placeholders to fit your dataset's actual structure.
