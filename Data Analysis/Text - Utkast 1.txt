@@ -1,0 +1,64 @@
+# Topic 1:
+# fönster sky clear fått användningsområden kemikalier afry idag över gärna
+# Topic 2:
+# unity green development team business ab solutions part sustainable new
+# Topic 3:
+# tävlingar säljare tiden lön säljer allt kr jämställt air schema
+# Topic 4:
+# erfarenhet där arbete kunder god så genom rollen från del
+# Topic 5:
+# säljutbildningar inte thermostar provisioner marknadens tävlingar säljare erbjuder fast flexibelt
+
+# Hållbarhet Contexts:
+('extrema miljöer. Vårt företag har vuxit ut från flygindustrin där ', '')
+('ser fram emot våra stora kommande satsningar/investeringar. Vi värnar om ', '')
+('person! Bonuspoäng om du är intresserad av både IT och ', '')
+('', '')
+('dig! Bonuspoäng om du är intresserad av både IT och ', '')
+('', '')
+('i enlighet med kollektivavtalet. Arbete i ett företag som värderar ', ' och kvalitet. Möjligheter till fortsatt utveckling och utbildning inom ditt')
+('Du erbjuds\n- En arbetsplats som värnar om miljö och ', '')
+('', '')
+('en långsiktig samhällsutveckling och dess betydelse för social och miljömässig ', '')
+
+# Sustainability Contexts:
+('a solid data platform to deliver foresight and insights to ', ' metrics such as sustainable fishing, sustainable aquaculture, sustainable wind-parks, fuel')
+('end-to-end value chain. You will play your part in driving ', ' performance and shaping our future Finance function using the newest')
+('while meeting customer guidelines and delivering required profitability whilst supporting ', '')
+('building itself, is undergoing a transformation with a focus on ', '')
+('would love to meet you. Having an interest in digitalization, ', ' and how people can come together to make change is')
+('System Verification Engineer - Electromobility functions\nAre you passionate about ', ' and the electrification within the automotive industry and have experience')
+('interna revisioner samt utföra riskbedömningar och rapporterar till Head of ', ' & Operational Excellence. I din roll kommer du även att')
+('project at IVL Swedish Environmental Research Institute focusing on environmental ', '')
+('offers a rare opportunity to learn about environmental management and ', '')
+('or interest\nin environmental engineering, wastewater treatment, data analysis, and ', '')
+
+
+
+
+
+
+
+
+
+
+# Topic 1:
+# kunder erfarenhet tjänsten ansökan projekt nya lösningar roll ha utveckling
+# Topic 2:
+# tävlingar säljare säljer kr provision jämställt ab försäljning allt oavsett
+# Topic 3:
+# development business team solutions new part technology product people customers
+# Topic 4:
+# flexibelt tävlingar kemikalier clear marknadens säljare fönster anpassat miljövänligt idag
+# Topic 5:
+# kommun västra götalandsregionen elever barn vård erfarenhet patienter utveckling unity
+# Analyzing sentiments...
+# Sentiment Analysis Summary:
+# count    184007.000000
+# mean          0.058167
+# std           0.172832
+# min          -1.000000
+# 25%          -0.001107
+# 50%           0.000000
+# 75%           0.158333
+# max           1.000000
